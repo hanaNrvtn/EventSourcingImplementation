@@ -1,0 +1,18 @@
+rename solution and project
+//add dateTime to db
+use uuid, Guid
+//access modifiers
+//create menu
+comments parts of code
+//implement step by step
+using join and other sql commands
+//add hit limit event
+//database throw exception
+remove console.Model>Account
+//throws exception if not successful
+better to combine with event
+statics to generate id
+
+//interface for controllers
+//json deserilizer vent ptop
+one line methods
